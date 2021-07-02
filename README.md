@@ -1,4 +1,4 @@
-## Olá c: Sou o Flávio 
+## Olá c: Sou Flávio 
  <div>
   <a href="https://github.com/flavioxe">
 
