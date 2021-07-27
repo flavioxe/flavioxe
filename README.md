@@ -3,8 +3,7 @@
 ### Sobre
 - Arquiteto e Urbanista pela UFPE, atualmente estudando Desenvolvimento Web Full Stack na NewTab Academy.
 - Tenho interesse em HTML, CSS, javaScript, React, Vue.js, Angular, php, kotlin.
-- Adoro jogar Minecraft!
-- 
+
 ## Linguagens e Bibliotecas (aprendendo) 
 <p align="center">
      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
