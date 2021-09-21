@@ -1,8 +1,10 @@
 ## Olá, aqui é o Flávio! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre
-👨🏽‍🎓 Arquiteto e Urbanista pela UFPE, atualmente estudando Desenvolvimento Web Full Stack na NewTab Academy.<br/>
-💻 Tenho interesse em HTML, CSS, javaScript, React, Vue.js, Angular, php, kotlin.
+🖼️ Entusiasta das artes, design e tecnologia; <br/>
+👨🏽‍🎓 Arquiteto e Urbanista pela UFPE, atualmente estudando Desenvolvimento Web Full Stack na NewTab Academy;<br/> 
+💻 Desenvolvendo com HTML5, CSS3, JavaScript, React.js e MySQL; <br/> 
+👨‍💻 Também tenho interesse em trabalhar com Bootstrap, Vue.js, Angular, PHP, Kotlin.
 
 ## Linguagens e Bibliotecas 
 
