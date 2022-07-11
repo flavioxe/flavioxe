@@ -2,7 +2,7 @@
 
 ### Sobre
 👨🏽‍🎓 Arquiteto e Urbanista pela UFPE, atualmente estudando Desenvolvimento Web Full Stack na NewTab Academy;<br/> 
-💻 Desenvolvendo com HTML5, CSS3, JavaScript, SASS, Bootstrap e Vue.js; <br/> 
+💻 Desenvolvendo com HTML5, CSS3, JavaScript, SASS, Bootstrap; <br/> 
 👨‍💻 Também tenho conhecimentos em React.js, MySQL, PHP e Laravel.
 
 ## Linguagens e Bibliotecas 
