@@ -1,9 +1,7 @@
 ## Olá, aqui é o Flávio! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre
-👨🏽‍🎓 Arquiteto e Urbanista pela UFPE, atualmente estudando Desenvolvimento Web Full Stack na NewTab Academy;<br/> 
-💻 Desenvolvendo com HTML5, CSS3, JavaScript, SASS, Bootstrap; <br/> 
-👨‍💻 Também tenho conhecimentos em React.js, MySQL, PHP e Laravel.
+👨🏽‍🎓 Arquiteto e Urbanista de formação, atualmente atuo como Desenvolvedor Front-End na Allycode 💻<br/> 
 
 ## Linguagens e Bibliotecas 
 
