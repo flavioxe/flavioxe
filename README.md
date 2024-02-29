@@ -6,7 +6,7 @@ I'm a passionate Full-Stack Developer with a strong focus on front-end with Vue 
 I thrive on crafting captivating user experiences and building robust, scalable applications. With expertise in frontend development, I specialize in HTML, CSS, Bootstrap, and JavaScript frameworks like React, Vue.js, and Nuxt.js. <br/> 
 On the backend, I excel in PHP, particularly with the powerful Laravel framework. Additionally, I am also learning Python. Let's code and innovate together! 🚀
 
-## Linguagens e Bibliotecas 
+## Technologies
 
 <p align="center">
      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
